@@ -1,0 +1,23 @@
+{
+  "name": "jesttesting",
+  "version": "1.0.0",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bewza23114/jestTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bewza23114/jestTesting/issues"
+  },
+  "homepage": "https://github.com/bewza23114/jestTesting#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
